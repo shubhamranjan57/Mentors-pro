@@ -1,0 +1,63 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+.slimscroll::-webkit-scrollbar {
+  height: 3px;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+.hidden::-webkit-scrollbar {
+  height: 0px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: none; 
+  box-shadow: none;
+  -webkit-box-shadow: none;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #dadce0; 
+  border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #3d6fec; 
+}
+
+@font-face {
+  font-family: 'Light';
+  src: url('../public/fonts/Raleway_Light.ttf');
+  }
+
+  @font-face {
+    font-family: 'Medium';
+    src: url('../public/fonts/Raleway_Medium.ttf');
+    }
+
+  @font-face {
+    font-family: 'Bold';
+    src: url('../public/fonts/Raleway_Bold.ttf');
+    }
+

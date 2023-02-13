@@ -1,0 +1,39 @@
+{
+  "name": "mentorship-ui",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@date-io/date-fns": "^2.14.0",
+    "@devexpress/dx-react-scheduler-material-ui": "^3.0.4",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.8.0",
+    "@mui/material": "^5.8.0",
+    "@mui/x-date-pickers": "^5.0.0-alpha.4",
+    "axios": "^0.26.1",
+    "date-fns": "^2.28.0",
+    "formik": "^2.2.9",
+    "moment": "^2.29.4",
+    "next": "12.1.0",
+    "react": "17.0.2",
+    "react-big-calendar": "^1.5.0",
+    "react-dom": "17.0.2",
+    "react-google-login": "^5.2.2",
+    "react-hook-form": "^7.31.3",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0",
+    "eslint-config-next": "12.1.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.6.2"
+  }
+}

@@ -1,0 +1,163 @@
+export const daysOptions = [
+  'Sunday',
+  'Monday',
+  'Tuesday',
+  'Wednesday',
+  'Thursday',
+  'Friday',
+  'Saturday',
+];
+
+export const genderOptions = ['Male', 'Female', 'Not_specified'];
+
+export const QualificationOptions = [
+  'BE',
+  'Under Graduate',
+  'Graduate',
+  'PHD',
+  'BTech',
+];
+
+export const SpecializationOptions = [
+  'Machine Learning',
+  'Data Science',
+  'Software Engineering',
+  'Human Computer Interaction',
+  'Cybersecurity',
+  'Cloud Computing',
+  'Information Systems',
+  'Digital',
+  'Interactive Media',
+];
+
+export const CollegeOptions = [
+  'Harvard University',
+  'Massachusetts Institute of Technology',
+  'Yale University',
+  'Stanford University',
+  'University of Chicago',
+  'University of Pennsylvania',
+  'California Institute of Technology',
+  'Duke University',
+];
+
+export const CompanyOptions = [
+  'ZopSmart',
+  'Google',
+  'Kroger',
+  'Amazon',
+  'Flipkart',
+  'Apple',
+  'Netflix',
+  'PWC',
+];
+
+export const RoleOptions = [
+  'Administrative assistant',
+  'Administrative coordinator',
+  'Secretary',
+  'Receptionist',
+  'Administrative manager',
+  'Administrative director',
+  'Administrative specialist',
+  'Executive assistant',
+  'Support assistant',
+  'Program coordinator',
+  'Client relations manager',
+  'Mail clerk',
+  'Office manager',
+  'Bill collector',
+  'Risk manager',
+  'Program manager',
+  'File clerk',
+  'Program administrator',
+  'Administrative officer',
+];
+
+export const ExpertiseOptions = [
+  'Effective communication',
+  'Teamwork',
+  'Responsibility',
+  'Creativity',
+  'Problem-solving',
+  'Adaptability',
+];
+
+export const SkillsOptions = [
+  'C++',
+  'SQL',
+  'Python',
+  'Java',
+  'R',
+  'HTML',
+  'Ladder',
+  'JavaScript',
+  'Servers',
+  'Network Security',
+  'Big Data',
+  'Algorithms',
+  'SPARK',
+  'SAS',
+  'Artificial Intelligence',
+  'Ruby',
+];
+
+export const timeZoneArry = [
+  'GMT - 12:00',
+  'GMT - 11:00',
+  'GMT - 10:00',
+  'GMT - 9:00',
+  'GMT - 8:00',
+  'GMT - 7:00',
+  'GMT - 6:00',
+  'GMT - 5:00',
+  'GMT - 4:00',
+  'GMT - 3:00',
+  'GMT - 2:00',
+  'GMT - 1:00',
+  'GMT + 0:00',
+  'GMT + 1:00',
+  'GMT + 2:00',
+  'GMT + 3:00',
+  'GMT + 3:30',
+  'GMT + 4:00',
+  'GMT + 4:30',
+  'GMT + 5:00',
+  'GMT + 5:30',
+  'GMT + 5:45',
+  'GMT + 6:00',
+  'GMT + 6:30',
+  'GMT + 7:00',
+  'GMT + 8:00',
+  'GMT + 9:00',
+  'GMT + 10:00',
+  'GMT + 11:00',
+  'GMT + 12:00',
+];
+
+export const timesArry = [
+  '00:00 - 01:00',
+  '01:00 - 02:00',
+  '02:00 - 03:00',
+  '03:00 - 04:00',
+  '04:00 - 05:00',
+  '05:00 - 06:00',
+  '06:00 - 07:00',
+  '07:00 - 08:00',
+  '08:00 - 09:00',
+  '09:00 - 10:00',
+  '10:00 - 11:00',
+  '11:00 - 12:00',
+  '12:00 - 13:00',
+  '13:00 - 14:00',
+  '14:00 - 15:00',
+  '15:00 - 16:00',
+  '16:00 - 17:00',
+  '17:00 - 18:00',
+  '18:00 - 19:00',
+  '19:00 - 20:00',
+  '20:00 - 21:00',
+  '21:00 - 22:00',
+  '22:00 - 23:00',
+  '23:00 - 00:00',
+];
